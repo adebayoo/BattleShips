@@ -9,7 +9,7 @@ Battleship Rust Console Game is a simple implementation of the classic Battleshi
 **1. Hidden Ship Locations:**
    - Computer-controlled ships are randomly placed on the board, providing a challenge for players to predict their locations.
 
-**3. Overlapping Ships:**
+**2. Overlapping Ships:**
    - Ships cannot overlap, requiring players to carefully plan their moves to avoid hitting the same coordinates multiple times.
 
 ## How to Play
